@@ -1,4 +1,4 @@
-# 1.-Study-of-Word-Embedding-in-Supervised-and-Unsupervised-Tasks
+# Study-of-Word-Embedding-in-Supervised-and-Unsupervised-Tasks
 
 NLP based feature learning technique, Word
 Embeddings maps words into vectors of real numbers that
